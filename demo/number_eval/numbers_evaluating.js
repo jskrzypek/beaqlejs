@@ -17,6 +17,7 @@ var TestConfig = {
     {
       "Name": "0",
       "Files": {
+      		"Reference": "audio/ref.wav",
             "1": "audio/0_1.wav",
             "2": "audio/0_2.wav",
             "3": "audio/0_3.wav",
@@ -26,6 +27,7 @@ var TestConfig = {
     {
       "Name": "1",
       "Files": {
+            "Reference": "audio/ref.wav",
             "1": "audio/1_1.wav",
             "2": "audio/1_2.wav",
             "3": "audio/1_3.wav",
@@ -35,6 +37,7 @@ var TestConfig = {
     {
       "Name": "2",
       "Files": {
+      		"Reference": "audio/ref.wav",
             "1": "audio/2_1.wav",
             "2": "audio/2_2.wav",
             "3": "audio/2_3.wav",
@@ -44,6 +47,7 @@ var TestConfig = {
     {
       "Name": "3",
       "Files": {
+      		"Reference": "audio/ref.wav",
             "1": "audio/3_1.wav",
             "2": "audio/3_2.wav",
             "3": "audio/3_3.wav",
@@ -53,6 +57,7 @@ var TestConfig = {
     {
       "Name": "4",
       "Files": {
+      		"Reference": "audio/ref.wav",
             "1": "audio/4_1.wav",
             "2": "audio/4_2.wav",
             "3": "audio/4_3.wav",
@@ -62,6 +67,7 @@ var TestConfig = {
     {
       "Name": "5",
       "Files": {
+      		"Reference": "audio/ref.wav",
             "1": "audio/5_1.wav",
             "2": "audio/5_2.wav",
             "3": "audio/5_3.wav",
@@ -71,6 +77,7 @@ var TestConfig = {
     {
       "Name": "6",
       "Files": {
+      		"Reference": "audio/ref.wav",
             "1": "audio/6_1.wav",
             "2": "audio/6_2.wav",
             "3": "audio/6_3.wav",
@@ -80,6 +87,7 @@ var TestConfig = {
     {
       "Name": "7",
       "Files": {
+      		"Reference": "audio/ref.wav",
             "1": "audio/7_1.wav",
             "2": "audio/7_2.wav",
             "3": "audio/7_3.wav",
@@ -89,6 +97,7 @@ var TestConfig = {
     {
       "Name": "8",
       "Files": {
+      		"Reference": "audio/ref.wav",
             "1": "audio/8_1.wav",
             "2": "audio/8_2.wav",
             "3": "audio/8_3.wav",
@@ -98,6 +107,7 @@ var TestConfig = {
     {
       "Name": "9",
       "Files": {
+      		"Reference": "audio/ref.wav",
             "1": "audio/9_1.wav",
             "2": "audio/9_2.wav",
             "3": "audio/9_3.wav",

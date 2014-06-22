@@ -17,90 +17,90 @@ var TestConfig = {
     {
       "Name": "0",
       "Files": {
-            "1": "audio/output/0_1.wav",
-            "2": "audio/output/0_2.wav",
-            "3": "audio/output/0_3.wav",
+            "1": "audio/0_1.wav",
+            "2": "audio/0_2.wav",
+            "3": "audio/0_3.wav",
         }
     },
     //    
     {
       "Name": "1",
       "Files": {
-            "1": "audio/output/1_1.wav",
-            "2": "audio/output/1_2.wav",
-            "3": "audio/output/1_3.wav",
+            "1": "audio/1_1.wav",
+            "2": "audio/1_2.wav",
+            "3": "audio/1_3.wav",
         }
     },
     //    
     {
       "Name": "2",
       "Files": {
-            "1": "audio/output/2_1.wav",
-            "2": "audio/output/2_2.wav",
-            "3": "audio/output/2_3.wav",
+            "1": "audio/2_1.wav",
+            "2": "audio/2_2.wav",
+            "3": "audio/2_3.wav",
         }
     },
     //    
     {
       "Name": "3",
       "Files": {
-            "1": "audio/output/3_1.wav",
-            "2": "audio/output/3_2.wav",
-            "3": "audio/output/3_3.wav",
+            "1": "audio/3_1.wav",
+            "2": "audio/3_2.wav",
+            "3": "audio/3_3.wav",
         }
     },
     //    
     {
       "Name": "4",
       "Files": {
-            "1": "audio/output/4_1.wav",
-            "2": "audio/output/4_2.wav",
-            "3": "audio/output/4_3.wav",
+            "1": "audio/4_1.wav",
+            "2": "audio/4_2.wav",
+            "3": "audio/4_3.wav",
         }
     },
     //    
     {
       "Name": "5",
       "Files": {
-            "1": "audio/output/5_1.wav",
-            "2": "audio/output/5_2.wav",
-            "3": "audio/output/5_3.wav",
+            "1": "audio/5_1.wav",
+            "2": "audio/5_2.wav",
+            "3": "audio/5_3.wav",
         }
     },
     //    
     {
       "Name": "6",
       "Files": {
-            "1": "audio/output/6_1.wav",
-            "2": "audio/output/6_2.wav",
-            "3": "audio/output/6_3.wav",
+            "1": "audio/6_1.wav",
+            "2": "audio/6_2.wav",
+            "3": "audio/6_3.wav",
         }
     },
     //    
     {
       "Name": "7",
       "Files": {
-            "1": "audio/output/7_1.wav",
-            "2": "audio/output/7_2.wav",
-            "3": "audio/output/7_3.wav",
+            "1": "audio/7_1.wav",
+            "2": "audio/7_2.wav",
+            "3": "audio/7_3.wav",
         }
     },
     //    
     {
       "Name": "8",
       "Files": {
-            "1": "audio/output/8_1.wav",
-            "2": "audio/output/8_2.wav",
-            "3": "audio/output/8_3.wav",
+            "1": "audio/8_1.wav",
+            "2": "audio/8_2.wav",
+            "3": "audio/8_3.wav",
         }
     },
     //    
     {
       "Name": "9",
       "Files": {
-            "1": "audio/output/9_1.wav",
-            "2": "audio/output/9_2.wav",
-            "3": "audio/output/9_3.wav",
+            "1": "audio/9_1.wav",
+            "2": "audio/9_2.wav",
+            "3": "audio/9_3.wav",
         }
     },
   ]
